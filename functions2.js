@@ -74,7 +74,7 @@ function isItLetter2 (word){
     return tell
 }
 
-isItLetter2('that')
+isItLetter2('9')
 
 //work1.2
 function isItLetter(character) {
